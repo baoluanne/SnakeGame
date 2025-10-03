@@ -1,0 +1,16 @@
+D:\Study\WEB\Classsic Snake\Classsic Snake\bin\Debug\net8.0-windows\Classsic Snake.exe
+D:\Study\WEB\Classsic Snake\Classsic Snake\bin\Debug\net8.0-windows\Classsic Snake.deps.json
+D:\Study\WEB\Classsic Snake\Classsic Snake\bin\Debug\net8.0-windows\Classsic Snake.runtimeconfig.json
+D:\Study\WEB\Classsic Snake\Classsic Snake\bin\Debug\net8.0-windows\Classsic Snake.dll
+D:\Study\WEB\Classsic Snake\Classsic Snake\bin\Debug\net8.0-windows\Classsic Snake.pdb
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic_Snake.Form1.resources
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.csproj.GenerateResource.cache
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.AssemblyInfoInputs.cache
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.AssemblyInfo.cs
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.csproj.CoreCompileInputs.cache
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.dll
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\refint\Classsic Snake.dll
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.pdb
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\Classsic Snake.genruntimeconfig.cache
+D:\Study\WEB\Classsic Snake\Classsic Snake\obj\Debug\net8.0-windows\ref\Classsic Snake.dll
